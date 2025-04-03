@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2888-minimum-index-of-a-valid-split](https://github.com/htcayhann/leetCodeSolution/tree/master/2888-minimum-index-of-a-valid-split) |
+## Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/htcayhann/leetCodeSolution/tree/master/1585-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/htcayhann/leetCodeSolution/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
