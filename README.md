@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2487-optimal-partition-of-string](https://github.com/htcayhann/leetCodeSolution/tree/master/2487-optimal-partition-of-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/htcayhann/leetCodeSolution/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sorting
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/htcayhann/leetCodeSolution/tree/master/1585-the-kth-factor-of-n) |
+## String
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/htcayhann/leetCodeSolution/tree/master/2487-optimal-partition-of-string) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/htcayhann/leetCodeSolution/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
