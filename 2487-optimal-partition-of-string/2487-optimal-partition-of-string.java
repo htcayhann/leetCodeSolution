@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public int partitionString(String s) {
         int count = 0;
-        Set<Character> seen = new HashSet<>(); // Use a HashSet for quick lookups
+        Set<Character> seen = new HashSet<>(); 
         
         for (char ch : s.toCharArray()) {
             if (seen.contains(ch)) { // If duplicate character found, start new partition
@@ -14,7 +14,7 @@ class Solution {
         }
         
         if (!seen.isEmpty()) {
-            count++; // Count the last partition
+            count++; 
         }
         
         return count;
